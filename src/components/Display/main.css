@@ -1,0 +1,22 @@
+
+.steps__display {
+    margin-top: 50px;
+    border: 2px solid black;
+    border-radius: 15px;
+    min-height: 100px;
+    padding: 10px;
+}
+
+.display__box-title {
+    display: flex;
+    justify-content: space-between;
+}
+
+.display__list {
+    padding-top: 5px;
+}
+
+.display__record {
+    display: flex;
+    justify-content: space-between;
+}
